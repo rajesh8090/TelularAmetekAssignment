@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="157380" started-at="2024-02-06T07:12:46Z" finished-at="2024-02-06T07:15:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="157380" started-at="2024-02-06T07:12:46Z" finished-at="2024-02-06T07:15:23Z">
+      <class name="com.ametek.tests.HomePageTest">
+        <test-method status="PASS" signature="config()[pri:0, instance:com.ametek.tests.HomePageTest@91161c7]" name="config" is-config="true" duration-ms="171" started-at="2024-02-06T12:42:46Z" finished-at="2024-02-06T12:42:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.ametek.tests.HomePageTest@91161c7]" name="openBrowser" is-config="true" duration-ms="2497" started-at="2024-02-06T12:42:46Z" finished-at="2024-02-06T12:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:com.ametek.tests.HomePageTest@91161c7]" name="openApplication" is-config="true" duration-ms="4449" started-at="2024-02-06T12:42:48Z" finished-at="2024-02-06T12:42:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="verifySearchFunctionality()[pri:0, instance:com.ametek.tests.HomePageTest@91161c7]" name="verifySearchFunctionality" duration-ms="149559" started-at="2024-02-06T12:42:53Z" finished-at="2024-02-06T12:45:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchFunctionality -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.ametek.tests.HomePageTest@91161c7]" name="closeBrowser" is-config="true" duration-ms="865" started-at="2024-02-06T12:45:22Z" finished-at="2024-02-06T12:45:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="configAS()[pri:0, instance:com.ametek.tests.HomePageTest@91161c7]" name="configAS" is-config="true" duration-ms="277" started-at="2024-02-06T12:45:23Z" finished-at="2024-02-06T12:45:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.ametek.tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
